@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\OpenGLOtherRes\glfw-3.4\build\CMakeFiles\ea5d26341fb6bc2038e41ae366e6e375\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F1FBBAD1-4C35-33A1-90DD-4F601570F650}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

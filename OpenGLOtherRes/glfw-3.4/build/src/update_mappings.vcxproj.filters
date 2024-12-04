@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\OpenGLOtherRes\glfw-3.4\build\CMakeFiles\0c9da1f1daf4c2d78910798861c7afe6\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="F:\OpenGLOtherRes\glfw-3.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="F:\OpenGLOtherRes\glfw-3.4\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="F:\OpenGLOtherRes\glfw-3.4\CMake\GenerateMappings.cmake" />
+    <None Include="F:\OpenGLOtherRes\glfw-3.4\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F1FBBAD1-4C35-33A1-90DD-4F601570F650}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0FD93D48-51E3-3639-BA12-335B73E9575A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

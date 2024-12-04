@@ -1,0 +1,3 @@
+﻿  Building Custom Rule F:/OpenGLOtherRes/glfw-3.4/tests/CMakeLists.txt
+  timeout.c
+  timeout.vcxproj -> F:\OpenGLOtherRes\glfw-3.4\build\tests\Debug\timeout.exe

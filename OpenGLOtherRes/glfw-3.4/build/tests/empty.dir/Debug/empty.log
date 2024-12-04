@@ -1,0 +1,5 @@
+﻿  Building Custom Rule F:/OpenGLOtherRes/glfw-3.4/tests/CMakeLists.txt
+  empty.c
+  tinycthread.c
+  正在生成代码...
+  empty.vcxproj -> F:\OpenGLOtherRes\glfw-3.4\build\tests\Debug\empty.exe

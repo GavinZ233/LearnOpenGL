@@ -1,0 +1,10 @@
+^F:\OPENGLOTHERRES\GLFW-3.4\BUILD\CMAKEFILES\F12806010B344CD8729D8E97F51E96D9\GENERATE.STAMP.RULE
+setlocal
+E:\IDE\CMake\bin\cmake.exe -SF:/OpenGLOtherRes/glfw-3.4 -BF:/OpenGLOtherRes/glfw-3.4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file F:/OpenGLOtherRes/glfw-3.4/build/GLFW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
